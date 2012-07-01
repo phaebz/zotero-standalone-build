@@ -9,4 +9,4 @@
 	url = git://github.com/zotero/zotero-libreoffice-integration.git
 [submodule "modules/zotero"]
 	path = modules/zotero
-	url = git://github.com/Panzerkampfwagen/zotero.git
+	url = git@github.com:Panzerkampfwagen/zotero.git
