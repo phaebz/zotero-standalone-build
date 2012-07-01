@@ -7,3 +7,6 @@
 [submodule "modules/zotero-word-for-mac-integration"]
 	path = modules/zotero-word-for-mac-integration
 	url = git@github.com:zotero/zotero-for-mac-integration
+[submodule "modules/zotero-word-for-windows-integration"]
+	path = modules/zotero-word-for-windows-integration
+	url = git@github.com:zotero/zotero-for-windows-integration
