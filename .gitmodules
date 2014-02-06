@@ -1,6 +1,6 @@
 [submodule "modules/zotero"]
 	path = modules/zotero
-	url = git@github.com:Panzerkampfwagen/zotero.git
+	url = git@github.com:phaebz/zotero.git
 [submodule "modules/zotero-libreoffice-integration"]
 	path = modules/zotero-libreoffice-integration
 	url = git@github.com:zotero/zotero-libreoffice-integration
